@@ -1,0 +1,16 @@
+{
+  "name": "dsf",
+  "version": "1.0.0",
+  "description": "dsfds",
+  "main": "ds",
+  "scripts": {
+    "test": "ds"
+  },
+  "author": "ds",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "puppeteer": "^10.4.0"
+  },
+  "devDependencies": {}
+}
